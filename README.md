@@ -12,11 +12,17 @@ Experimental verification of the analytical model proposed in
 
 ## Files
 - Report
-
+(General Physics Project.tex)
+(General_Physics_Project_report.pdf)
   
 - Experimental Data
+(Experiment Video.mp4)
+(KakaoTalk_20260613_000212322.png)
+(KakaoTalk_20260613_004007596.png)
+(KakaoTalk_20260613_004033328.png)
 
-  
 - Presentation
+(General Physics Project PPT.pdf)
+(General Physics Project PPT.pptx)
 
   
