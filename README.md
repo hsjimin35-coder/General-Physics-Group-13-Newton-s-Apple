@@ -31,8 +31,8 @@ Experimental verification of the analytical model proposed in
 
 [Presentation Video](Presentation%20Video.MOV)
 
-[PPT pdf](General%20Physics%20Project%20PPT.pdf)
+[PPT pdf](General%20Physics%20Project_Team%2013.pdf)
 
-[PPT pptx](General%20Physics%20Project%20PPT.pptx)
+[PPT pptx](General%20Physics%20Project_Team%2013.pptx)
 
   
